@@ -1,0 +1,6 @@
+Install the following libraries:
+
+pip install os
+pip install tabulate
+pip install termcolor
+pip install sqlite3
